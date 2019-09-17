@@ -1,0 +1,68 @@
+.title , .nombre 
+{
+  
+  width: 60%;
+  background: #ff8000;
+}
+.nombre
+{
+    font-size: 30px;
+}
+div
+{
+  width: 60%;
+  background: #ff8000;
+}
+.d,.e,.ex
+{
+  
+  font-size: 20px;
+  background: #ff8000;
+  width: 56%;
+  padding: 2%;
+  text-align: left;
+}
+
+*
+{
+  
+  color: rgb(0, 0, 0);
+  margin: 0;
+  padding: 0;
+}
+.Datos,.personal,.ocupacional
+{
+  
+  text-align: center;
+  background: #1590b6;
+  width: 100%;
+}
+.datos,.Personal,.perfiles
+{
+  margin-left: 2%;
+  margin-top: 3%;
+}
+.Personal
+{
+ 
+  text-align: center;
+}
+footer
+{
+  font-size: 16px;
+  background: #050505;
+  width: 58%;
+  padding: 1%;
+  text-align: center;
+  color: #fff;
+}
+.fotoperfil
+{
+  margin-top: 2%;
+  width: 100px;
+  height: 125px;
+}
+body
+{
+  background: #615c5c;
+}
